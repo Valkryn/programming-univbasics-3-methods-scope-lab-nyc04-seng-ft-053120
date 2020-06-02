@@ -7,4 +7,4 @@ def toadstool
   puts status
 end
 
-toadstool
+mario
