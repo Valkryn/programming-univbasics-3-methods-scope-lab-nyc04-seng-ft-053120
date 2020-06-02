@@ -1,6 +1,5 @@
 def mario
   puts "It's-a me, Mario!"
-  toadstool
 end
 
 def toadstool
