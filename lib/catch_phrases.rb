@@ -1,5 +1,5 @@
 def mario
-  puts phrase
+  toadstool
 end
 
 def toadstool
