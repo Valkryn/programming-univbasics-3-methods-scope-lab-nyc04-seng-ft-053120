@@ -7,4 +7,6 @@ def toadstool
   puts status
 end
 
-mario
+def link
+puts ""
+end
