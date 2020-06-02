@@ -1,5 +1,5 @@
 def mario
-  puts ""
+  puts "It's-a me, Mario!"
   toadstool
 end
 
